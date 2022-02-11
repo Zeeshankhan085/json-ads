@@ -9,11 +9,7 @@
       "headline": "Huge Double Door Fridge",
       "description": "Maximum storage capacity with our counter depth fridge",
       "status": "draft",
-      "social": [
-        "google",
-        "facebook",
-        null
-      ],
+      "social": ["google", "facebook", null],
       "contentUrl": "https://placekitten.com/g/200/300",
       "destinationUrl": "https://placekitten.com/g/200/300"
     },
@@ -26,11 +22,7 @@
       "headline": "Huge Double Door Fridge",
       "description": "Maximum storage capacity with our counter depth fridge",
       "status": "live",
-      "social": [
-        "google",
-        "facebook",
-        "google"
-      ],
+      "social": ["google", "facebook", "google"],
       "contentUrl": "https://placekitten.com/g/200/300",
       "destinationUrl": "https://placekitten.com/g/200/300"
     },
@@ -43,11 +35,7 @@
       "headline": "Huge Double Door Fridge",
       "description": "capacity with our counter depth fridge",
       "status": "live",
-      "social": [
-        null,
-        null,
-        null
-      ],
+      "social": [null, null, null],
       "contentUrl": "https://placekitten.com/g/200/300",
       "destinationUrl": "https://placekitten.com/g/200/300"
     },
@@ -60,11 +48,7 @@
       "headline": "Huge Double Door Fridge",
       "description": "Maximum storage capacity with our counter depth fridge",
       "status": "paused",
-      "social": [
-        "google",
-        "linkedin",
-        "facebook"
-      ],
+      "social": ["google", "linkedin", "facebook"],
       "contentUrl": "https://placekitten.com/g/200/300",
       "destinationUrl": "https://placekitten.com/g/200/300"
     },
@@ -79,277 +63,6 @@
       "status": "paused",
       "contentUrl": "https://placekitten.com/g/200/300",
       "destinationUrl": "https://placekitten.com/g/200/300"
-    },
-    {
-      "id": 6,
-      "name": "Double Door Fridge",
-      "createdAt": "Wed Feb 09 2022 19:17:57 GMT+0530 (India Standard Time)",
-      "updatedAt": "Wed Feb 04 2022 19:17:57 GMT+0530 (India Standard Time)",
-      "type": "image",
-      "headline": "Huge Double Door Fridge",
-      "description": "Maximum storage capacity with our counter depth fridge",
-      "status": "live",
-      "social": [
-        "google",
-        "linkedin",
-        "facebook"
-      ],
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "destinationUrl": "https://placekitten.com/g/200/300"
-    },
-    {
-      "id": 7,
-      "name": "Double Door Fridge",
-      "createdAt": "Wed Feb 09 2022 19:17:57 GMT+0530 (India Standard Time)",
-      "updatedAt": "Wed Feb 03 2022 19:17:57 GMT+0530 (India Standard Time)",
-      "type": "image",
-      "headline": "Huge Double Door Fridge",
-      "description": "Maximum storage capacity with our counter depth fridge",
-      "status": "live",
-      "social": [
-        "google",
-        "linkedin",
-        "facebook"
-      ],
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "destinationUrl": "https://placekitten.com/g/200/300"
-    },
-    {
-      "createdAt": "Wed Feb 09 2022 19:17:57 GMT+0530 (India Standard Time)",
-      "updatedAt": "Wed Feb 09 2022 19:17:57 GMT+0530 (India Standard Time)",
-      "status": "live",
-      "social": [
-        "google",
-        "linkedin",
-        "facebook"
-      ],
-      "id": 9,
-      "name": "Double Door",
-      "type": "image",
-      "headline": "Huge Double Door Fridge",
-      "description": "Maximum storage capacity with our",
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "destinationUrl": "https://placekitten.com/g/200/300"
-    },
-    {
-      "createdAt": "",
-      "updatedAt": null,
-      "status": "live",
-      "social": [
-        "google",
-        "linkedin",
-        "facebook"
-      ],
-      "name": "Program 1",
-      "type": "jkkkkkkk",
-      "contentUrl": "https://youtube.com",
-      "headline": "12367666666",
-      "description": "254RETDFGyufyfuyfuyfyfyfyf",
-      "id": 10
-    },
-    {
-      "name": "Free Trial",
-      "type": "",
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "headline": "Huge Double Door Fridge",
-      "description": "Maximum storage capacity with our counter depth fridge",
-      "social": [
-        null,
-        null,
-        null
-      ],
-      "destinationUrl": "https://placekitten.com/g/200/300",
-      "createdAt": "2022-02-10T12:01:10.024Z",
-      "updatedAt": null,
-      "status": "live",
-      "id": 11
-    },
-    {
-      "name": "Program 1",
-      "type": "",
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "headline": "Huge Double Door Fridge",
-      "description": "Maximum storage capacity with our counter depth fridge",
-      "social": [
-        "google",
-        null,
-        null
-      ],
-      "destinationUrl": "https://placekitten.com/g/200/300",
-      "createdAt": "2022-02-10T12:08:12.618Z",
-      "updatedAt": null,
-      "status": "live",
-      "id": 12
-    },
-    {
-      "name": "Step 1",
-      "type": "video",
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "headline": "Huge Double Door Fridge",
-      "description": "Maximum storage capacity with our counter depth fridge",
-      "social": [
-        null,
-        null,
-        null
-      ],
-      "destinationUrl": "https://placekitten.com/g/200/300",
-      "createdAt": "2022-02-10T12:13:42.548Z",
-      "updatedAt": null,
-      "status": "live",
-      "id": 13
-    },
-    {
-      "name": "Step 1",
-      "type": "video",
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "headline": "Huge Double Door Fridge",
-      "description": "Maximum storage capacity with our counter depth fridge",
-      "social": [
-        null,
-        null,
-        null
-      ],
-      "destinationUrl": "https://placekitten.com/g/200/300",
-      "createdAt": "2022-02-10T12:13:47.817Z",
-      "updatedAt": null,
-      "status": "live",
-      "id": 14
-    },
-    {
-      "name": "Step 1",
-      "type": "video",
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "headline": "Huge Double Door Fridge",
-      "description": "Maximum storage capacity with our counter depth fridge",
-      "social": [
-        "google",
-        null,
-        null
-      ],
-      "destinationUrl": "https://placekitten.com/g/200/300",
-      "status": "live",
-      "createdAt": "2022-02-10T12:21:41.800Z",
-      "updatedAt": null,
-      "id": 15
-    },
-    {
-      "name": "Double Door Fridge 456",
-      "type": "image",
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "headline": "Huge Double Door Fridge iokjh",
-      "description": "Maximum storage capacity with our counter depth fridgeihohihiihhihi",
-      "social": [
-        "google",
-        "facebook",
-        "google"
-      ],
-      "destinationUrl": "https://placekitten.com/g/200/300",
-      "status": "live",
-      "createdAt": "2022-02-10T14:36:12.065Z",
-      "updatedAt": null,
-      "id": 16
-    },
-    {
-      "name": "Program 167",
-      "type": "image",
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "headline": "Huge Double Door Fridge iokjh",
-      "description": "Maximum storage capacity with our counter depth fridge",
-      "social": [
-        "google",
-        null,
-        null
-      ],
-      "destinationUrl": "https://placekitten.com/g/200/300",
-      "status": "live",
-      "createdAt": "2022-02-10T14:48:19.484Z",
-      "updatedAt": null,
-      "id": 17
-    },
-    {
-      "name": "Program 1hgg",
-      "type": "image",
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "headline": "Huge Double Door Fridgeggugugu",
-      "description": "Maximum storage capacity with our counter depth fridgeggggg",
-      "social": [
-        "google",
-        null,
-        null
-      ],
-      "destinationUrl": "https://placekitten.com/g/200/300",
-      "status": "live",
-      "createdAt": "2022-02-10T14:48:54.112Z",
-      "updatedAt": null,
-      "id": 18
-    },
-    {
-      "name": "Program 1hjui",
-      "type": "image",
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "headline": "Huge Double Door Fridge",
-      "description": "Maximum storage capacity with our counter depth fridgeihohihiihhihi",
-      "social": [
-        "google",
-        null,
-        null
-      ],
-      "destinationUrl": "https://placekitten.com/g/200/300",
-      "status": "live",
-      "createdAt": "2022-02-10T15:00:21.830Z",
-      "updatedAt": null,
-      "id": 19
-    },
-    {
-      "name": "Program 1",
-      "type": "video",
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "headline": "Huge Double Door Fridge iokjh",
-      "description": "Maximum storage capacity with our counter depth fridge",
-      "social": [
-        null,
-        null,
-        null
-      ],
-      "destinationUrl": "https://placekitten.com/g/200/300",
-      "status": "live",
-      "createdAt": "2022-02-10T15:10:42.167Z",
-      "updatedAt": null,
-      "id": 20
-    },
-    {
-      "name": "Program 1",
-      "type": "image",
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "headline": "Huge Double Door Fridgeggugugu",
-      "description": "capacity with our counter depth fridge",
-      "social": [
-        "google",
-        null,
-        null
-      ],
-      "destinationUrl": "https://placekitten.com/g/200/300",
-      "status": "live",
-      "createdAt": "2022-02-10T15:17:45.899Z",
-      "updatedAt": "2022-02-10T15:19:36.006Z",
-      "id": 21
-    },
-    {
-      "name": "Program 1",
-      "type": "image",
-      "contentUrl": "https://placekitten.com/g/200/300",
-      "headline": "Huge Double Door Fridgeggugugu",
-      "description": "254RETDFG",
-      "social": [
-        "google",
-        null,
-        null
-      ],
-      "destinationUrl": "https://placekitten.com/g/200/300",
-      "status": "live",
-      "createdAt": "2022-02-10T17:32:53.849Z",
-      "updatedAt": null,
-      "id": 22
     }
   ]
 }
